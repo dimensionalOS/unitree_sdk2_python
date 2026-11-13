@@ -12,7 +12,7 @@ from dataclasses import dataclass
 
 import cyclonedds.idl as idl
 import cyclonedds.idl.annotations as annotate
-import cyclonedds.idl.types as types
+import unitree_sdk2py.idl._types as types
 
 # root module import for resolving types
 # import unitree_hg
